@@ -1,4 +1,4 @@
-ALGORITHM algorithm_name
+ALGORITHM sentence
 VAR
     vowels["A", "E", "I", "O", "U","a","e","i","o","u"]
     i : INTEGER:=0;
